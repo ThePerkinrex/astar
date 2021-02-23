@@ -1,0 +1,2 @@
+[workspace]
+members = ["astar_lib", "astar_bin"]
